@@ -3,7 +3,21 @@
     cursor: crosshair;
 }
 
-  
+  body {
+    background-color: black;
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    place-items: center center;
+    margin: 0 auto; 
+    font-family: 'Roboto Mono', monospace;
+
+  }
+
+
 .vimeo-wrapper {
       position: fixed;
 
